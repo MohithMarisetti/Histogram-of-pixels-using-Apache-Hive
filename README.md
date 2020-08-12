@@ -1,1 +1,2 @@
-# Histogram-of-pixels-using-Apache-Pig
+# Histogram-of-pixels-using-Apache-Hive
+
